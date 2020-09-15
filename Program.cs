@@ -1,14 +1,13 @@
 ﻿using System;
 
-namespace mat
+namespace musica sozinho 
 {
-    class Program
+    class program
     {
         static void Main(string[] args)
+
         {
-            Console.WriteLine("digite seu nome:");
-            Console.ReadLine();
-            Console.WriteLine(" Obrigado ");
+            
         
         }
     }
