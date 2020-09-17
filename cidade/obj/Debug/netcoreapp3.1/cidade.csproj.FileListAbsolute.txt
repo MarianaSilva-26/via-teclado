@@ -1,0 +1,13 @@
+C:\Users\HP Gelo\Documents\mariana.arq\cidade\obj\Debug\netcoreapp3.1\cidade.csprojAssemblyReference.cache
+C:\Users\HP Gelo\Documents\mariana.arq\cidade\obj\Debug\netcoreapp3.1\cidade.AssemblyInfoInputs.cache
+C:\Users\HP Gelo\Documents\mariana.arq\cidade\obj\Debug\netcoreapp3.1\cidade.AssemblyInfo.cs
+C:\Users\HP Gelo\Documents\mariana.arq\cidade\obj\Debug\netcoreapp3.1\cidade.csproj.CoreCompileInputs.cache
+C:\Users\HP Gelo\Documents\mariana.arq\cidade\bin\Debug\netcoreapp3.1\cidade.exe
+C:\Users\HP Gelo\Documents\mariana.arq\cidade\bin\Debug\netcoreapp3.1\cidade.deps.json
+C:\Users\HP Gelo\Documents\mariana.arq\cidade\bin\Debug\netcoreapp3.1\cidade.runtimeconfig.json
+C:\Users\HP Gelo\Documents\mariana.arq\cidade\bin\Debug\netcoreapp3.1\cidade.runtimeconfig.dev.json
+C:\Users\HP Gelo\Documents\mariana.arq\cidade\bin\Debug\netcoreapp3.1\cidade.dll
+C:\Users\HP Gelo\Documents\mariana.arq\cidade\bin\Debug\netcoreapp3.1\cidade.pdb
+C:\Users\HP Gelo\Documents\mariana.arq\cidade\obj\Debug\netcoreapp3.1\cidade.dll
+C:\Users\HP Gelo\Documents\mariana.arq\cidade\obj\Debug\netcoreapp3.1\cidade.pdb
+C:\Users\HP Gelo\Documents\mariana.arq\cidade\obj\Debug\netcoreapp3.1\cidade.genruntimeconfig.cache
